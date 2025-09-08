@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+conda_env/
+
+# Streamlit cache
+.streamlit/
