@@ -6,3 +6,5 @@ plotly
 streamlit
 scikit-learn
 openpyxl
+shap
+xgboost

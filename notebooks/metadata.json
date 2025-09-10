@@ -1,0 +1,40 @@
+{
+    "tables": {
+        "my_table": {
+            "columns": {
+                "Relative_Compactness": {
+                    "sdtype": "numerical"
+                },
+                "Surface_Area": {
+                    "sdtype": "numerical"
+                },
+                "Wall_Area": {
+                    "sdtype": "numerical"
+                },
+                "Roof_Area": {
+                    "sdtype": "numerical"
+                },
+                "Overall_Height": {
+                    "sdtype": "numerical"
+                },
+                "Orientation": {
+                    "sdtype": "categorical"
+                },
+                "Glazing_Area": {
+                    "sdtype": "numerical"
+                },
+                "Glazing_Area_Distribution": {
+                    "sdtype": "categorical"
+                },
+                "Heating_Load": {
+                    "sdtype": "numerical"
+                },
+                "Cooling_Load": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
